@@ -1,4 +1,3 @@
 # PyBook
-Sistema simples para cadastrar, listar, buscar e gerenciar livros. 
-Este projeto é um catálogo de livros desenvolvido com o objetivo de praticar lógica de programação e organização de dados pela linguagem Python.
-O sistema permite cadastrar livros, visualizar a lista completa, realizar buscas e gerenciar informações de forma simples.
+Este projeto consiste no desenvolvimento de um Catálogo de Livros, com o objetivo de praticar a lógica de programação e a organização de dados utilizando a linguagem Python. O sistema funciona por meio de um menu interativo no terminal, permitindo cadastrar, listar, consultar livros por ID, atualizar e excluir registros.
+Os dados são estruturados utilizando listas e dicionários, e o armazenamento é realizado em um arquivo JSON, garantindo a persistência das informações. O sistema aplica corretamente o conceito de CRUD (Create, Read, Update e Delete), atendendo aos requisitos propostos no trabalho.
